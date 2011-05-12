@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" version="3">
+  <includeClasses/>
+  <includeResources>
+    <resourceEntry destPath="com/greensock/changelog.txt" sourcePath="com/greensock/changelog.txt"/>
+    <resourceEntry destPath="com/greensock/easing/easing_readme.txt" sourcePath="com/greensock/easing/easing_readme.txt"/>
+    <resourceEntry destPath="com/greensock/loading/changelog.txt" sourcePath="com/greensock/loading/changelog.txt"/>
+  </includeResources>
+  <namespaceManifests/>
+</flexLibProperties>
